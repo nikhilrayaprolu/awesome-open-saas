@@ -4,7 +4,7 @@ Created with a vision to bring awareness of these products and as a list for beg
 
 This list excludes Database as a service and Caching as a Service products.
 
-Click Watch on the top right to get updates on New Products.
+Click Watch on the top right to receive updates on New Products.
 
 Why Open Source SaaS products?
 
