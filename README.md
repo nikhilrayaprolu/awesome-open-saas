@@ -2,7 +2,13 @@
 A Curated List of Open Source Software as a Service Products.
 Created with a vision to bring awareness of these products and as a list for beginners to contribute and learn from Open Source SaaS products. 
 
+This list excludes Database as a service and Caching as a Service products.
 
+Why Open Source SaaS products?
+
+- https://opensource.com/article/18/5/open-source-saas-y-world
+
+- https://sentry.io/_/open-source/
 
 
 | Type                                    | Current proprietary                                                                                                   | Open Source Product                                                                                                                            | Hosted or Manual or Library | Programming Language |
