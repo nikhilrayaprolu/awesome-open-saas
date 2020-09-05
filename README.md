@@ -6,7 +6,7 @@ Are you planning to create a new Open SaaS product and need community support? R
 
 This list excludes Database as a service and Caching as a Service products.
 
-Click Watch on the top right to receive updates on New Products.
+*Click Watch and Star* on the top right to receive updates on New Products.
 
 Why Open Source SaaS products?
 
