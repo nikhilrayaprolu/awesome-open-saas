@@ -2,7 +2,7 @@
 A Curated List of Open Source Software as a Service Products.
 Created with a vision to bring awareness of these products and as a list for beginners to contribute and learn from Open Source SaaS products. 
 
-Planning to create a new Open SaaS product and need community support? Raise an issue to let the community know and contribute to your project. If you can receive two likes on the issue, we will list down your project here with "In development" Tag.
+Are you planning to create a new Open SaaS product and need community support? Raise an issue to let the community know and contribute to your project. If you can receive two likes on the issue, we will list down your project here with "In development" Tag.
 
 This list excludes Database as a service and Caching as a Service products.
 
