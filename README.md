@@ -83,3 +83,5 @@ Why Open Source SaaS products?
 | Computer Vision and NLP                 | [einstein.ai](https://einstein.ai/products), [www.clarifai.com](https://www.clarifai.com/)                            |                                                                                                                                                |                             |                      |
 | Open API 3 Definitions Designer         | [OpenAPIDesigner](https://openapidesigner.com)                         |                                                                                                                                                |                             |
 | Form2Channel         | [Form2Channel](https://Form2Channel.com)                         |                                                                                                                                                |                             |
+
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
